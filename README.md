@@ -5,4 +5,6 @@ It clean up ~/.bash_history without sorting.
 
 It requires gawk.
 
+Following this script, You may `history -w` and `history -r`.
+
 May this tiny script help beginner like me.
